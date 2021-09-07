@@ -14,4 +14,5 @@ for item in lst:
     total = total + iNum
     print(total)
 print('Total number of comments:', total)
+print(total)
 
